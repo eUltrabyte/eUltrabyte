@@ -1,1 +1,1 @@
-![eUltrabyte's GitHub stats](https://github-readme-stats.vercel.app/api?username=eUltrabyte&show_icons=true&theme=synthwave&layout=compact)
+![eUltrabyte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eUltrabyte&count_private=true&theme=merko&show_icons=true)
