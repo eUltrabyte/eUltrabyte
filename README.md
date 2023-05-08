@@ -1,10 +1,12 @@
-<h2 align="left">Ave, Im eUltrabyte. Based C++ Programmer.</h2>
+<h2 align="left">Hi, I'm eUltrabyte. Junior C++ Programmer.</h2>
+<h3 align="left">Looking for a job. Contact me by [email](eultrabyte@gmail.com)</h3>
 
 ###
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=eUltrabyte" height="150" alt="stats graph"  />
   <><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=eUltrabyte" height="150" alt="languages graph"  /> -->
+  <h4>I'm 17 year old programming passionate, I mainly use C++, but I'm looking forward to learn Assembly x86 and Rust.</h4>
 </div>
 
 ###
