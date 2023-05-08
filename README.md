@@ -1,5 +1,5 @@
 # Hi, I'm eUltrabyte. Junior C++ Programmer.
-### Looking for a job. Contact me by [email](eultrabyte@gmail.com)
+### Looking for a job. Contact me by [email](mailto:eultrabyte@gmail.com).
 
 ###
 
