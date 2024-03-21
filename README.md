@@ -3,7 +3,7 @@
 
 ###
 
-<h4>I'm 17 year old programming passionate, I mainly use C++, but I'm looking forward to learn Assembly x86 and Rust.</h4>
+<h4>I'm 18 year old programming passionate, I mainly use C++, but I'm looking forward to learn more C, Assembly x86 and Rust.</h4>
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=eUltrabyte" height="150" alt="stats graph"  />
