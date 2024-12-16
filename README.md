@@ -34,10 +34,3 @@
 <img src="https://raw.githubusercontent.com/eUltrabyte/eUltrabyte/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="left">
-  <a href="https://www.youtube.com/@eUltrabyte"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="https://discord.com/users/431830775860690945"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-</div>
-
-###
