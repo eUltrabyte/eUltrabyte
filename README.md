@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="75" src="https://art.pixilart.com/f21cd16f1aaa1b1.gif"  />
+<img align="right" height="75" width="75" src="https://art.pixilart.com/f21cd16f1aaa1b1.gif"  />
 
 ###
 
